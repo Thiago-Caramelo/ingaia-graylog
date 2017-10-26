@@ -1,0 +1,26 @@
+{
+  "name": "ingaia-graylog",
+  "version": "1.0.0",
+  "description": "log messages to graylog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thiago-Caramelo/ingaia-graylog.git"
+  },
+  "keywords": [
+    "loggging",
+    "graylog"
+  ],
+  "author": "Thiago Caramelo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thiago-Caramelo/ingaia-graylog/issues"
+  },
+  "homepage": "https://github.com/Thiago-Caramelo/ingaia-graylog#readme",
+  "dependencies": {
+    "superagent": "^3.8.0"
+  }
+}
